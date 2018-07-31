@@ -1,16 +1,20 @@
-Jekyll-Pug-Material
----
+# Jekyll Materialize Starter Template v0.1
 
-![Screenshot of template](src/static/img/screenshot.png)
+*A Site Starter Materialize Templates.
 
-# A Material Design Pug Experience Using [Jekyll-Pug](https://jekyll-pug.dougie.io/)
+The theme is a fork of the [minima][1]
 
-## To Run:
+![minima theme preview](/screenshot.png)
 
-1. Clone/download this repository.
-2. `cd` into the cloned/downloaded repository and run the command `bundle`.
-3. Run the command `jekyll serve`.
 
-## Package.json?
+# License
 
-The package.json is for deploying to Netlify. It tells Netlify to install the Pug-CLI NPM package which is needed in order to run Jekyll-Pug.
+The theme is available as so I use this source [MIT License][2].
+
+[Materialize][3] a  modern responsive front-end framework based on Material Design
+
+Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
+
+[1]: https://github.com/jekyll/minima
+[2]: https://opensource.org/licenses/MIT
+[3]: http://materializecss.com/
