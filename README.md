@@ -1,98 +1,53 @@
-# Redaktilo
+# Hugo Learn Theme
 
-Redaktilo allows you to find, insert, replace and remove lines using an
-editor-like object.
+This repository contains a theme for [Hugo](https://gohugo.io/), based on great [Grav Learn Theme](http://learn.getgrav.org/).
 
-*Because your code too needs an editor to manipulate files*.
+Visit the [theme documentation](https://learn.netlify.com/en/) to see what is going on. It is actually built with this theme.
 
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/fbe2d89f-f64d-45c2-a680-bbafac4b0d08/mini.png)](https://insight.sensiolabs.com/projects/fbe2d89f-f64d-45c2-a680-bbafac4b0d08)
-[![Travis CI](https://travis-ci.org/gnugat/redaktilo.png)](https://travis-ci.org/gnugat/redaktilo)
+## Main features
 
-## Getting started
+- Automatic Search
+- Multilingual mode
+- Unlimited menu levels
+- Automatic next/prev buttons to navigate through menu entries
+- Image resizing, shadow…
+- Attachments files
+- List child pages
+- Mermaid diagram (flowchart, sequence, gantt)
+- Customizable look and feel and themes variants
+- Buttons, Tip/Note/Info/Warning boxes, Expand
 
-Use [Composer](http://getcomposer.org/) to install Redaktilo in your projects:
+## Installation
 
-    composer require "gnugat/redaktilo:^1.0"
+Navigate to your themes folder in your Hugo site and use the following commands:
 
-Redaktilo provides an `Editor` class which can be instanciated using
-`EditorFactory`:
-
-```php
-<?php
-require_once __DIR__.'/vendor/autoload.php';
-
-use Gnugat\Redaktilo\EditorFactory;
-
-$editor = EditorFactory::createEditor();
+```
+$ cd themes
+$ git clone https://github.com/matcornic/hugo-theme-learn.git
 ```
 
-## Real life example
+Check that your Hugo version is minimum `0.25` with `hugo version`.
 
-For our example, we will create a [`KernelManipulator`](https://github.com/sensiolabs/SensioGeneratorBundle/blob/8b7a33aa3d22388443b6de0b0cf184122e9f60d2/Manipulator/KernelManipulator.php)
-similar to the one we can find in [SensioGeneratorBundle](https://github.com/sensiolabs/SensioGeneratorBundle).
+![Overview](https://github.com/matcornic/hugo-theme-learn/raw/master/images/tn.png)
 
-It takes a bundle's fully qualified classname and inserts it in the `AppKernel`
-file:
+## Usage
 
-```php
-<?php
+- [Visit the documentation](https://learn.netlify.com/en/)
 
-namespace Sensio\Bundle\GeneratorBundle\Manipulator;
+## Download old versions (prior to 2.0.0)
 
-use Gnugat\Redaktilo\Editor;
+If you need old version for compatibility purpose, either download [theme source code from releases](https://github.com/matcornic/hugo-theme-learn/releases) or use the right git tag. For example, with `1.1.0` 
 
-class KernelManipulator extends Manipulator
-{
-    protected $editor;
-    protected $appKernelFilename;
+- Direct download way: https://github.com/matcornic/hugo-theme-learn/archive/1.1.0.zip
+- Git way:
 
-    public function __construct(Editor $editor, $appKernelFilename)
-    {
-        $this->editor = $editor;
-        $this->appKernelFilename = $appKernelFilename;
-    }
-
-    public function addBundle($bundle)
-    {
-        $appKernel = $this->editor->open($this->appKernelFilename);
-        $newBundle = "            new $bundle(),";
-        if ($this->editor->hasBelow($appKernel, $newBundle)) {
-            $message = sprintf('Bundle "%s" is already defined in "AppKernel::registerBundles()".', $bundle);
-
-            throw new \RuntimeException($message);
-        }
-        $this->editor->jumpBelow($appKernel, '        );');
-        $this->editor->insertAbove($appKernel, $newBundle);
-        $this->editor->save($appKernel);
-
-        return true;
-    }
-}
+```shell
+cd themes/hugo-theme-learn
+git checkout tags/1.1.0
 ```
 
-As you can see it's easier to read and to understand than
-[the original PHP token parsing](https://github.com/sensiolabs/SensioGeneratorBundle/blob/8b7a33aa3d22388443b6de0b0cf184122e9f60d2/Manipulator/KernelManipulator.php).
+For both solutions, the documentation is available at https://github.com/matcornic/hugo-theme-learn/releases/download/1.1.0/hugo-learn-doc-1.1.0.zip
 
-## Further documentation
+## Credits
 
-You can see the current and past versions using one of the following:
-
-* the `git tag` command
-* the [releases page on Github](https://github.com/gnugat/redaktilo/releases)
-* the file listing the [changes between versions](CHANGELOG.md)
-
-You can find more documentation at the following links:
-
-* [copyright and MIT license](LICENSE)
-* [versioning and branching models](VERSIONING.md)
-* [contribution instructions](CONTRIBUTING.md)
-* [migration to 2.0 instructions](UPGRADE-2.0.md)
-
-Next readings:
-
-* [Tutorial](doc/01-tutorial.md)
-* [Use cases](doc/02-use-cases.md)
-* [Reference](doc/03-reference.md)
-* [Vocabulary](doc/04-vocabulary.md)
-* [Extending](doc/05-extending.md)
-* [Exceptions](doc/06-exceptions.md)
+Many thanks to [@vjeantet](https://github.com/vjeantet/) for the fork [docdock](https://github.com/vjeantet/hugo-theme-docdock). The v2 of this theme is mainly based on his work !
