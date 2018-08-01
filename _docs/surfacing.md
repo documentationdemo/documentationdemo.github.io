@@ -1,6 +1,6 @@
 ---
 title: Surfacing
-permalink: /docs/themes/
+permalink: /docs/surfacing/
 ---
 
 By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting

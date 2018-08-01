@@ -1,6 +1,6 @@
 ---
 title: Surfaces
-permalink: /docs/customization/
+permalink: /docs/surfaces/
 ---
 
 This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/).

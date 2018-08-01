@@ -1,6 +1,6 @@
 ---
 title: Primitives
-permalink: /docs/home/
+permalink: /docs/primitives/
 redirect_from: /docs/index.html
 ---
 
