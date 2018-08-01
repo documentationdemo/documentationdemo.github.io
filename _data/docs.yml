@@ -1,11 +1,13 @@
 - title: Getting Started
   docs:
-  - home
-  - themes
-  - customization
+  - surfaces
+    - primitives
+    - surfacing
 
 - title: Examples
   docs:
   - cheatsheet
   - font-awesome
   - bootstrap
+
+  
