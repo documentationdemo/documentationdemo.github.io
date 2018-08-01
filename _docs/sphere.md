@@ -3,7 +3,7 @@ title: Sphere
 permalink: /docs/sphere/
 ---
 
-[Creating a Sphere](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#creating-a-sphere)<br>[Editing a Sphere](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#editing-a-sphere)
+[Creating a Sphere](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#creating-a-sphere)<br>[Editing a Sphere](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#editing-a-sphere)<br>[NURBS Degree](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#nurbs-degree)
 
 #### Creating a Sphere
 
@@ -22,3 +22,6 @@ Diameter | Drag the blue diameter handle.<br>Click the dimension, and then type 
 Longitude sweep angle | Drag the longitude arrows.<br>Click the dimension, and then type a **Degree**.
 Latitude sweep angle | Drag the latitude arrows.<br>Click the dimension, and then type a **Degree**.
 
+#### NURBS Degree
+
+{{site.nurbsdegree.md}}
