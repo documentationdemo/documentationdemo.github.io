@@ -1,8 +1,8 @@
 - title: Getting Started
   docs:
-  - surfaces
-    - primitives
-    - surfacing
+  - home
+  - themes
+  - customization
 
 - title: Examples
   docs:
