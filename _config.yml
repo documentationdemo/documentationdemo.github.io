@@ -58,3 +58,5 @@ collections:
 exit_double: "Double right-click to exit the tool."
 
 surfaces_tab: "On the ribbon, click the **Surfaces** tab."
+
+nurbsdegree: "https://documentationdemo.github.io/docs/nurbsdegree.md"
