@@ -6,7 +6,7 @@ permalink: /docs/cube/
 ## Creating a Cube
 
 1. {{site.surfaces_tab}}
-2. Click the **Cube** icon. ![cube](https://documentationdemo.github.io/img/ribbonPrimitiveCube-80@2x.png)
+2. Click the **Cube** icon.<br><img src="https://documentationdemo.github.io/img/ribbonPrimitiveCube-80@2x.png" width="30" height="30" />
 3. Drag to define the length and width.
 4. Click to define the height.
 5. {{site.exit_double}}
