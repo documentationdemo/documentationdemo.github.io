@@ -7,7 +7,7 @@ permalink: /docs/plane/
 ## Creating a Plane
 
 1. {{site.surfaces_tab}}
-2. Click the **Plane** icon ![plane](https://documentationdemo.github.io/img/ribbonPrimitiveSphere-80@2x.png).
+2. Click the **Plane** icon.<br><img src="https://documentationdemo.github.io/img/ribbonPrimitiveSphere-80@2x.png" width="30" height="30" />
 3. Drag to define the length and width.<br><i class="fa fa-info-circle"></i> **Tip:**
    - To create a plane by defining the center and then a corner, hold down the **Ctrl** key while dragging.
    - To create a square, hold down the **Shift** key while dragging.
