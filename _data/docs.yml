@@ -3,6 +3,11 @@
   - home
   - themes
   - customization
+  
+- title: Surfaces
+  docs:
+  - plane
+  - cube
 
 - title: Examples
   docs:
