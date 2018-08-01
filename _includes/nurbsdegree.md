@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-#### Create and edit a NURBS surface with control points.
+##### Create and edit a NURBS surface with control points.
 
 > This option specifies whether the surface is exact or approximated. By default, the surface is set to **Exact**.
 
