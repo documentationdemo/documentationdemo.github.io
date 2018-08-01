@@ -1,7 +1,6 @@
 ---
 title: Primitives
 permalink: /docs/primitives/
-redirect_from: /docs/index.html
 ---
 
 ## Getting started
