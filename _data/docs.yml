@@ -6,9 +6,10 @@
   
 - title: Surfaces
   docs:
-  - surfaces
-  - plane
-  - cube
+  - title: Primitives
+    docs:
+    - plane
+    - cube
 
 - title: Examples
   docs:
