@@ -4,8 +4,7 @@ permalink: /docs/plane/
 ---
 
 ##### Table of Contents
-[Creating a Plane](#create)
-[Editing a Plane](#edit)
+[Creating a Plane](#create)<br>[Editing a Plane](#edit)
 
 <a name="create"/>
 
