@@ -1,6 +1,6 @@
 ---
 title: Cube
-permalink: /docs/home/
+permalink: /docs/cube/
 ---
 
 ## Creating a Cube
