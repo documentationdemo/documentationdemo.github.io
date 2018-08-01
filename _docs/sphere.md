@@ -2,8 +2,12 @@
 title: Sphere
 permalink: /docs/sphere/
 ---
+##### Table of Contents
+[Creating a Sphere](#create)
+[Editing a Sphere](#edit)
+[NURBS Degree](#nurbs)
 
-[Creating a Sphere](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#creating-a-sphere)<br>[Editing a Sphere](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#editing-a-sphere)<br>[NURBS Degree](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/sphere.md#nurbs-degree)
+<a name="create"/>
 
 #### Creating a Sphere
 
@@ -11,6 +15,8 @@ permalink: /docs/sphere/
 2. Click the **Sphere** icon.<br><img src="https://documentationdemo.github.io/img/ribbonPrimitiveSphere-80@2x.png" width="30" height="30" />
 3. Drag to define the diameter.
 4. {{exit_double}}
+
+<a name="edit"/>
 
 #### Editing a Sphere
 
@@ -22,6 +28,8 @@ Diameter | Drag the blue diameter handle.<br>Click the dimension, and then type 
 Longitude sweep angle | Drag the longitude arrows.<br>Click the dimension, and then type a **Degree**.
 Latitude sweep angle | Drag the latitude arrows.<br>Click the dimension, and then type a **Degree**.
 
+<a name="nurbs"/>
+
 #### NURBS Degree
 
-{{site.nurbsdegree}}
+{% include nurbsdegree.md %}
