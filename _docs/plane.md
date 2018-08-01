@@ -4,7 +4,9 @@ permalink: /docs/plane/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-## Creating a Plane
+[Creating a Plane](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/plane.md#creating-a-plane)<br>[Editing a Plane](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/plane.md#editing-a-plane)
+
+#### Creating a Plane
 
 1. {{site.surfaces_tab}}
 2. Click the **Plane** icon.<br><img src="https://documentationdemo.github.io/img/ribbonPrimitiveSphere-80@2x.png" width="30" height="30" />
@@ -13,7 +15,7 @@ permalink: /docs/plane/
    - To create a square, hold down the **Shift** key while dragging.
 4. {{site.exit_double}}
 
-## Editing a Plane
+#### Editing a Plane
 
 1. Double-click the plane.
 
