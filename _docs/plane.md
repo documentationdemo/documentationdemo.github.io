@@ -4,7 +4,11 @@ permalink: /docs/plane/
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-[Creating a Plane](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/plane.md#creating-a-plane)<br>[Editing a Plane](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/plane.md#editing-a-plane)
+##### Table of Contents
+[Creating a Plane](#create)
+[Editing a Plane](#edit)
+
+<a name="create"/>
 
 #### Creating a Plane
 
@@ -14,6 +18,8 @@ permalink: /docs/plane/
    - To create a plane by defining the center and then a corner, hold down the **Ctrl** key while dragging.
    - To create a square, hold down the **Shift** key while dragging.
 4. {{site.exit_double}}
+
+<a name="edit"/>
 
 #### Editing a Plane
 
