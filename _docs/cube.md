@@ -5,11 +5,11 @@ permalink: /docs/cube/
 
 ## Creating a Cube
 
-1. On the ribbon, click the **Surfaces** tab.
+1. {{site.surfaces_tab}}
 2. Click the **Cube** icon. ![cube](https://documentationdemo.github.io/img/ribbonPrimitiveCube-80@2x.png)
 3. Drag to define the length and width.
 4. Click to define the height.
-5. 
+5. {{site.exit_double}}
 
 ## Editing a Cube
 
