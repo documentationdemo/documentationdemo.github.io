@@ -1,6 +1,7 @@
 ---
-title: Primitives
-permalink: /docs/primitives/
+title: Getting Started
+permalink: /docs/index/
+redirect_from: /docs/index.html
 ---
 
 ## Getting started
