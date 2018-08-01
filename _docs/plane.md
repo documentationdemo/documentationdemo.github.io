@@ -7,11 +7,11 @@ permalink: /docs/plane/
 [Creating a Plane](#create)
 [Editing a Plane](#edit)
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <a name="create"/>
 
 #### Creating a Plane
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 1. {{site.surfaces_tab}}
 2. Click the **Plane** icon.<br><img src="https://documentationdemo.github.io/img/ribbonPrimitiveSphere-80@2x.png" width="30" height="30" />
