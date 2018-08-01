@@ -24,4 +24,4 @@ Latitude sweep angle | Drag the latitude arrows.<br>Click the dimension, and the
 
 #### NURBS Degree
 
-{{site.nurbsdegree.md}}
+{{site.nurbsdegree}}
