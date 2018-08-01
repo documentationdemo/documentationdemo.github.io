@@ -5,7 +5,7 @@ permalink: /docs/cube/
 
 [Creating a Cube](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/cube.md#creating-a-cube)<br>[Editing a Cube](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/cube.md#editing-a-cube)
 
-## Creating a Cube
+#### Creating a Cube
 
 1. {{site.surfaces_tab}}
 2. Click the **Cube** icon.<br><img src="https://documentationdemo.github.io/img/ribbonPrimitiveCube-80@2x.png" width="30" height="30" />
@@ -13,7 +13,7 @@ permalink: /docs/cube/
 4. Click to define the height.
 5. {{site.exit_double}}
 
-## Editing a Cube
+#### Editing a Cube
 
 1. Double-click the cube.
 
