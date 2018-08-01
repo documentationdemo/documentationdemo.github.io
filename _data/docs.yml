@@ -1,8 +1,8 @@
 - title: Getting Started
   docs:
   - surfaces
-  - primitives
-  - surfacing
+    - primitives
+    - surfacing
 
 - title: Examples
   docs:
