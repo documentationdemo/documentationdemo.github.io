@@ -8,6 +8,7 @@ permalink: /docs/cube/
 [Editing a Cube](#editingacube)  
 
 <a name="creatingacube"/>
+
 #### Creating a Cube
 
 1. {{site.surfaces_tab}}
@@ -17,6 +18,7 @@ permalink: /docs/cube/
 5. {{site.exit_double}}
 
 <a name="editingacube"/>
+
 #### Editing a Cube
 
 1. Double-click the cube.
