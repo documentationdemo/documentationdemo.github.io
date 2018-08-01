@@ -3,9 +3,7 @@ title: Sphere
 permalink: /docs/sphere/
 ---
 ##### Table of Contents
-[Creating a Sphere](#create)
-[Editing a Sphere](#edit)
-[NURBS Degree](#nurbs)
+[Creating a Sphere](#create)<br>[Editing a Sphere](#edit)<br>[NURBS Degree](#nurbs)
 
 <a name="create"/>
 
