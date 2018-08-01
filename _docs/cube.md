@@ -22,4 +22,4 @@ Width | <ul><li>Drag either arrow in the horizontal plane.</li><li>Click the dim
 Height | <ul><li>Drag either arrow in the vertical plane.</li><li>Click the dimension, and then type a **Height**.</li></ul>
 Lock edges | Hover over the edges of the cube, and then click the **Lock/Unlock** icon.
 
-2.
+2. {{site.exit_double}}
