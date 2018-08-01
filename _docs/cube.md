@@ -17,9 +17,9 @@ permalink: /docs/cube/
 
 To modify | Do this
 --- | ---
-Length | <ul><li>Drag either arrow in the horizontal plane.</li><li>Click the dimension, and then type a **Length**.</li></ul>
-Width | <ul><li>Drag either arrow in the horizontal plane.</li><li>Click the dimension, and then type a **Width**.</li></ul>
-Height | <ul><li>Drag either arrow in the vertical plane.</li><li>Click the dimension, and then type a **Height**.</li></ul>
+Length | Drag either arrow in the horizontal plane.<br>Click the dimension, and then type a **Length**.
+Width | Drag either arrow in the horizontal plane.<br>Click the dimension, and then type a **Width**.
+Height | Drag either arrow in the vertical plane.<br>Click the dimension, and then type a **Height**.
 Lock edges | Hover over the edges of the cube, and then click the **Lock/Unlock** icon.
 
 2. {{site.exit_double}}
