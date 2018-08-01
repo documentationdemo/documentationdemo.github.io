@@ -20,7 +20,7 @@ permalink: /docs/plane/
 
 To modify | Do this
 --- | ---
-Length | <ul><li>Drag the arrow.</li><li>Click the dimension, and then type a **Length**.</li></ul>
+Length | Drag the arrow.<br>Click the dimension, and then type a **Length**.
 Width | <ul><li>Drag the arrow.</li><li>Click the dimension, and then type a **Width**.</li></ul>
 Lock edges | Hover over the edges of the object, and then click the **Lock/Unlock** icon.
 
