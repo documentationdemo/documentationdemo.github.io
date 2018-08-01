@@ -3,6 +3,8 @@ title: Cube
 permalink: /docs/cube/
 ---
 
+[Creating a Cube](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/cube.md#creating-a-cube)<br>[Editing a Cube](https://github.com/documentationdemo/documentationdemo.github.io/blob/master/_docs/cube.md#editing-a-cube)
+
 ## Creating a Cube
 
 1. {{site.surfaces_tab}}
