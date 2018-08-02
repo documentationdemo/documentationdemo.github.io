@@ -1,6 +1,7 @@
 ---
 title: Markdown Cheatsheet
 permalink: /docs/cheatsheet/
+tags: [markdown,cheatsheet]
 ---
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
