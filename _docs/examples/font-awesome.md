@@ -1,6 +1,7 @@
 ---
 title: Font Awesome Icon List
 permalink: /docs/font-awesome/
+tags: [fontawesome]
 ---
 
 
