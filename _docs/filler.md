@@ -25,29 +25,63 @@ Hipsum | Sriracha in thundercats mumblecore.
 
 2. Flannel kickstarter forage hashtag ugh literally.
 
+
+
 <table class="table table-striped table-hover ">
   <thead>
     <tr>
-       <th><div align="left">To polaroid</div></th>
-       <th><div align="left">Do semiotics</div></th>
+      <th>#</th>
+      <th>Column heading</th>
+      <th>Column heading</th>
+      <th>Column heading</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-    <tr class="warning">
-      <td>Lorem</td>
-      <td>Neutra magna health goth semiotics migas minim veniam paleo wolf marfa hell of.</td>
+      <td>1</td>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
     </tr>
     <tr>
-    <tr class="danger">
-      <td>Ipsum</td>
-      <td>Brooklyn pork belly fixie, artisan af tattooed kale chips squid craft beer kogi mumblecore in.</td>
+      <td>2</td>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="info">
+      <td>3</td>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
     </tr>
     <tr class="success">
-      <td>Hipsum</td>
-      <td>Sriracha in thundercats mumblecore.</td>
+      <td>4</td>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="danger">
+      <td>5</td>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="warning">
+      <td>6</td>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
+    </tr>
+    <tr class="active">
+      <td>7</td>
+      <td>Column content</td>
+      <td>Column content</td>
+      <td>Column content</td>
     </tr>
   </tbody>
 </table>
+
+
 
 3. {{site.exit_double}}
