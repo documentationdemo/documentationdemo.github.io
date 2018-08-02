@@ -6,7 +6,9 @@ tags: [surfaces,cube]
 
 ##### Table of Contents  
 [Creating a Cube](#creatingacube)  
-[Editing a Cube](#editingacube)  
+[Editing a Cube](#editingacube)
+
+___
 
 <a name="creatingacube"/>
 
