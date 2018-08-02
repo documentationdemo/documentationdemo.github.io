@@ -1,6 +1,7 @@
 ---
 title: Cube
 permalink: /docs/cube/
+tags: [surfaces,cube]
 ---
 
 ##### Table of Contents  
