@@ -54,8 +54,10 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+  forum:
+    permalink: /forum/:year/:month/:day/:title/
+    output: true
 
-forum: "https://documentationdemo.github.io/forum.html"
 
 exit_double: "Double right-click to exit the tool."
 
