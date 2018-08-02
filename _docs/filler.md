@@ -50,5 +50,4 @@ Hipsum | Sriracha in thundercats mumblecore.
   </tbody>
 </table>
 
-
 3. {{site.exit_double}}
