@@ -6,6 +6,8 @@ tags: [surfaces,sphere,nurbsdegree]
 ##### Table of Contents
 [Creating a Sphere](#create)<br>[Editing a Sphere](#edit)<br>[NURBS Degree](#nurbs)
 
+___
+
 <a name="create"/>
 
 #### Creating a Sphere
