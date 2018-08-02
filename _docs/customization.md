@@ -1,6 +1,7 @@
 ---
 title: Customization
 permalink: /docs/customization/
+tags: [customization,bootstrap]
 ---
 
 This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/).
