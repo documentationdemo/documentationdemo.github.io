@@ -18,9 +18,37 @@ permalink: /docs/filler/
 1. IPhone dreamcatcher yuccie crucifix fanny pack.
 
 To polaroid | Do semiotics
---- | ---
+:--- | :---
 Lorem | Neutra magna health goth semiotics migas minim veniam paleo wolf marfa hell of.
 Ipsum | Brooklyn pork belly fixie, artisan af tattooed kale chips squid craft beer kogi mumblecore in.
 Hipsum | Sriracha in thundercats mumblecore.
 
-2. {{site.exit_double}}
+2. Flannel kickstarter forage hashtag ugh literally.
+
+<table class="table table-striped table-hover ">
+  <thead>
+    <tr>
+       <th><div align="left">To polaroid</div></th>
+       <th><div align="left">Do semiotics</div></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <tr class="warning">
+      <td>Lorem</td>
+      <td>Neutra magna health goth semiotics migas minim veniam paleo wolf marfa hell of.</td>
+    </tr>
+    <tr>
+    <tr class="danger">
+      <td>Ipsum</td>
+      <td>Brooklyn pork belly fixie, artisan af tattooed kale chips squid craft beer kogi mumblecore in.</td>
+    </tr>
+    <tr class="success">
+      <td>Hipsum</td>
+      <td>Sriracha in thundercats mumblecore.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+3. {{site.exit_double}}
