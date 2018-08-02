@@ -1,6 +1,7 @@
 ---
 title: Plane
 permalink: /docs/plane/
+tags" [surfaces,plane]
 ---
 
 ##### Table of Contents
