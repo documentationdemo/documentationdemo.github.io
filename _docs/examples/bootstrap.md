@@ -1,6 +1,7 @@
 ---
 title: Bootstrap Features
 permalink: /docs/bootstrap/
+tags: [bootstrap]
 ---
 
 
