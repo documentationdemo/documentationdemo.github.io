@@ -55,6 +55,8 @@ collections:
     permalink: /blog/:year/:month/:day/:title/
     output: true
 
+forums: "https://documentationdemo.github.io/forum.html"
+
 exit_double: "Double right-click to exit the tool."
 
 surfaces_tab: "On the ribbon, click the **Surfaces** tab."
