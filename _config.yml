@@ -54,7 +54,7 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
-  forum:
+  forums:
     permalink: /forum/:year/:month/:day/:title/
     output: true
 
