@@ -6,7 +6,7 @@ permalink: /docs/filler/
 #### Instructions
 
 1. Elit marfa swag, cliche echo park cold-pressed dolore farm-to-table small batch deserunt cray.
-2. Elit marfa swag, cliche echo park cold-pressed dolore farm-to-table small batch deserunt cray.<br><i class="fa fa-info-circle"></i> **Tip:** Mumblecore unicorn elit gochujang, fugiat hot chicken ullamco craft beer bicycle rights single-origin coffee williamsburg mixtape butcher tumeric vaporware.
+2. Four loko bicycle rights chambray lorem williamsburg microdosing.<br><i class="fa fa-info-circle"></i> **Tip:** Mumblecore unicorn elit gochujang, fugiat hot chicken ullamco craft beer bicycle rights single-origin coffee williamsburg mixtape butcher tumeric vaporware.
 3. Copper mug lorem migas qui.
     * Vice sustainable bushwick intelligentsia.
     * Adipisicing beard minim subway tile offal tofu you probably haven't heard of them listicle tempor whatever craft beer.
