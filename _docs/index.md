@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 permalink: /docs/home/
+tags: [getstarted]
 ---
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
