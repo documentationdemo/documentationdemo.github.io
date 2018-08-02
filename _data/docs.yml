@@ -2,11 +2,23 @@
   docs:
   - home
   
+- title: Tutorials
+  docs:
+  - filler
+  
+- title: Sketching
+  docs:
+  - filler
+  
+- title: Curves
+  docs:
+  - filler
+  
 - title: Surfaces
   docs:
-    - plane
-    - cube
-    - sphere
+  - plane
+  - cube
+  - sphere
 
 - title: Examples
   docs:
