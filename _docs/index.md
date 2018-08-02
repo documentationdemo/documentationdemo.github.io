@@ -1,7 +1,6 @@
 ---
 title: Getting Started
 permalink: /docs/home/
-redirect_from: /docs/index.html
 ---
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
