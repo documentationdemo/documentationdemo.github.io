@@ -3,6 +3,24 @@ title: Hipsum Template
 permalink: /docs/filler/
 ---
 
+<style>
+  
+.toc {
+   text-align: right;
+   }
+   
+</style>
+
+<div class="toc">
+
+##### Table of Contents
+   [Instructions](#one)
+   [Instructions](#two)
+   
+</div>
+   
+<a name="one"/>
+
 #### Instructions
 
 1. Elit marfa swag, cliche echo park cold-pressed dolore farm-to-table small batch deserunt cray.
@@ -12,6 +30,8 @@ permalink: /docs/filler/
     * Adipisicing beard minim subway tile offal tofu you probably haven't heard of them listicle tempor whatever craft beer.
 4. Tattooed esse ut skateboard celiac
 5. Salvia eu enim adipisicing scenester vexillologist.
+
+<a name="two"/>
 
 #### Instructions
 
