@@ -5,7 +5,7 @@ permalink: /docs/filler/
 
 <style>
   
-.toc {
+div.toc {
    text-align: right;
    }
    
@@ -14,8 +14,7 @@ permalink: /docs/filler/
 <div class="toc">
 
 ##### Table of Contents
-   [Instructions](#one)
-   [Instructions](#two)
+   [Instructions](#one)<br>[Instructions](#two)
    
 </div>
    
